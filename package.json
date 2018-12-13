@@ -1,0 +1,24 @@
+{
+  "name": "splash",
+  "version": "1.0.0",
+  "description": "Using Basic Color Theory to Suggest an Outfit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliforeman/splash.git"
+  },
+  "keywords": [
+    "color",
+    "theory",
+    "fashion"
+  ],
+  "author": "Eli Foreman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliforeman/splash/issues"
+  },
+  "homepage": "https://github.com/eliforeman/splash#readme"
+}
