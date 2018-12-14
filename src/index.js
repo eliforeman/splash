@@ -1,3 +1,1 @@
-import iro from '@jaames/iro';
-
-
+console.log(`I'm a silly entry point`);
