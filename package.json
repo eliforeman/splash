@@ -2,7 +2,7 @@
   "name": "splash",
   "version": "1.0.0",
   "description": "Using Basic Color Theory to Suggest an Outfit",
-  "main": "index.js",
+  "main": "api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,6 +22,9 @@
   },
   "homepage": "https://github.com/eliforeman/splash#readme",
   "dependencies": {
-    "@jaames/iro": "^3.5.3"
+    "@jaames/iro": "^3.5.3",
+    "express": "^4.17.1",
+    "instagram-node": "^0.5.8",
+    "pug": "^2.0.4"
   }
 }
